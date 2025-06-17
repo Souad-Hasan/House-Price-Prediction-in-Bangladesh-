@@ -1,5 +1,10 @@
 🏠 House Price Prediction in Bangladesh 🇧🇩
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Data](https://img.shields.io/badge/dataset-2010--2022-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 This project provides a machine learning solution for predicting house prices in Bangladesh based on various property features. The model is built using a Random Forest Regressor and includes data preprocessing, feature engineering, and model evaluation components.
 
 ✨ Features
