@@ -7,6 +7,8 @@
 
 This project provides a machine learning solution for predicting house prices in Bangladesh based on various property features. The model is built using a Random Forest Regressor and includes data preprocessing, feature engineering, and model evaluation components.
 
+[Sample](![image](https://github.com/user-attachments/assets/a0369cab-9823-433c-8454-b6ebe45ee0d9)
+)
 ✨ Features
 
 - **🧹 Data Cleaning**: Handles missing values, duplicates, and converts numeric fields
