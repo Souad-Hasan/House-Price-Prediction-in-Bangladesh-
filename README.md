@@ -87,7 +87,7 @@ The model provides two key metrics:
 
  📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Souad-Hasan/House-Price-Prediction-in-Bangladesh-/blob/725e4ce32eb5a2a9614f7c8c1fdd1932511726b4/LICENSE.txt) file for details.
 
  🤝 Contribution
 
