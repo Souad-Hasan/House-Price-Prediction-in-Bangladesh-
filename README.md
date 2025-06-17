@@ -19,17 +19,19 @@ Sample![image](https://github.com/user-attachments/assets/a0369cab-9823-433c-845
 - **💻 Interactive CLI**: Allows users to compare their expected price with model predictions
 
 📂 Dataset
+The model uses the [House Price Bangladesh](https://www.kaggle.com/datasets/durjoychandrapaul/house-price-bangladesh) dataset from Kaggle with the following features:
 
-The model uses a dataset (`house_price_bd.csv`) containing property listings with the following features:
-- 💰 Price_in_taka
-- 🛏️ Bedrooms
-- 🚿 Bathrooms
-- � Floor_no
-- 📏 Floor_area
-- 🏙️ City
-- 📍 Location
-- 🏷️ Title
-- 🚪 Occupancy_status
+- 💰 `Price_in_taka` - Property price in Bangladeshi Taka (৳)
+- 🛏️ `Bedrooms` - Number of bedrooms
+- 🚿 `Bathrooms` - Number of bathrooms
+- 🏢 `Floor_no` - Floor number
+- 📏 `Floor_area` - Area in square feet
+- � `City` - City location (Dhaka, Chittagong, etc.)
+- 📍 `Location` - Detailed address
+- 🏷️ `Title` - Property title/description
+- 🚪 `Occupancy_status` - (New, Used, Under Construction)
+
+**Dataset License:** [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
 🛠️ Installation
 
